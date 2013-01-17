@@ -10,4 +10,7 @@
 
 @interface ViewController : UIViewController
 
+
+
+@property(nonatomic,retain)IBOutlet UITextField *Identifiant;
 @end
